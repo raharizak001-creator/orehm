@@ -1,0 +1,14 @@
+{
+  "name": "aquasense-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend Node/SQLite pour aquasense Pro",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
